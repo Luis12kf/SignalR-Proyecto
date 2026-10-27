@@ -1,0 +1,7 @@
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\staticwebassets.build.json

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\components\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\components\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorSiganalRApp2",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj*",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T12:09:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:12:07.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T14:02:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T14:01:48.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

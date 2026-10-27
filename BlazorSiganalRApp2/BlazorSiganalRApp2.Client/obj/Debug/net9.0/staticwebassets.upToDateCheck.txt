@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\wwwroot\appsettings.Development.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\wwwroot\appsettings.json

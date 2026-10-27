@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSiganalRApp2", "BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.csproj", "{A658E054-D311-45BA-BB43-B81FC2CB77D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSiganalRApp2.Client", "BlazorSiganalRApp2\BlazorSiganalRApp2.Client\BlazorSiganalRApp2.Client.csproj", "{131D18E5-940C-4C51-9F94-AFD7C368FF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A658E054-D311-45BA-BB43-B81FC2CB77D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A658E054-D311-45BA-BB43-B81FC2CB77D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A658E054-D311-45BA-BB43-B81FC2CB77D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A658E054-D311-45BA-BB43-B81FC2CB77D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131D18E5-940C-4C51-9F94-AFD7C368FF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131D18E5-940C-4C51-9F94-AFD7C368FF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131D18E5-940C-4C51-9F94-AFD7C368FF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131D18E5-940C-4C51-9F94-AFD7C368FF61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC7DAB0-55B1-4FAE-8EB1-75A7A3725D8A}
+	EndGlobalSection
+EndGlobal
