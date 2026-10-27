@@ -1036,3 +1036,4 @@ C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSi
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\refint\BlazorSiganalRApp2.Client.dll
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\BlazorSiganalRApp2.Client.pdb
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\ref\BlazorSiganalRApp2.Client.dll
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2.Client\obj\Debug\net9.0\BlazorSiganalRApp2.Client.sourcelink.json

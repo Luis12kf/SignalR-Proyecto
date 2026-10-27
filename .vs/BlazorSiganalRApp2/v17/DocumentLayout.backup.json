@@ -3,20 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{131D18E5-940C-4C51-9F94-AFD7C368FF61}|BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\BlazorSiganalRApp2.Client.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{131D18E5-940C-4C51-9F94-AFD7C368FF61}|BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\BlazorSiganalRApp2.Client.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2.client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\components\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\components\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|c:\\users\\luis manuel\\source\\repos\\blazorsiganalrapp2\\blazorsiganalrapp2\\blazorsiganalrapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A658E054-D311-45BA-BB43-B81FC2CB77D7}|BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj|solutionrelative:blazorsiganalrapp2\\blazorsiganalrapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis Manuel\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.22\\THIRD-PARTY-NOTICES.TXT||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +25,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlazorSiganalRApp2",
-              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj",
-              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj",
-              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj*",
-              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-27T12:09:03.683Z",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2.Client\\Pages\\Chat.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:05:17.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
-              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:12:07.8Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "THIRD-PARTY-NOTICES.TXT",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.22\\THIRD-PARTY-NOTICES.TXT",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.22\\THIRD-PARTY-NOTICES.TXT",
+              "ToolTip": "C:\\Users\\Luis Manuel\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.22\\THIRD-PARTY-NOTICES.TXT [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.22\\THIRD-PARTY-NOTICES.TXT [Solo lectura]",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-27T12:55:04.349Z",
+              "EditorCaption": " [Solo lectura]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T12:45:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Layout\\NavMenu.razor",
@@ -65,19 +77,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAADwvx8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-26T14:02:42.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Chat.razor",
-              "DocumentMoniker": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
-              "RelativeDocumentMoniker": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
-              "ToolTip": "C:\\Users\\Luis Manuel\\source\\repos\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
-              "RelativeToolTip": "BlazorSiganalRApp2\\BlazorSiganalRApp2\\Components\\Pages\\Chat.razor",
-              "ViewState": "AgIAAD0AAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-26T14:01:48.179Z",
               "EditorCaption": ""
             }
           ]
