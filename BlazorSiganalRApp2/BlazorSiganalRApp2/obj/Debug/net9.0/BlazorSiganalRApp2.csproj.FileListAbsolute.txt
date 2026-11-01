@@ -129,3 +129,4 @@ C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSi
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2\bin\Debug\net9.0\System.Threading.Channels.dll
 C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2\obj\Debug\net9.0\BlazorSiganalRApp2.sourcelink.json
+C:\Users\Luis Manuel\source\repos\BlazorSiganalRApp2\BlazorSiganalRApp2\BlazorSiganalRApp2\bin\Debug\net9.0\libman.json

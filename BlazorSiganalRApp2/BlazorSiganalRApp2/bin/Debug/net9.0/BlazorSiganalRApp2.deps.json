@@ -386,7 +386,8 @@
       },
       "BlazorSiganalRApp2.Client/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components.WebAssembly": "9.0.20"
+          "Microsoft.AspNetCore.Components.WebAssembly": "9.0.20",
+          "Microsoft.AspNetCore.SignalR.Client": "9.0.22"
         },
         "runtime": {
           "BlazorSiganalRApp2.Client.dll": {
